@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Pacifico&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	color: #0e9aa7;
+	margin:0px;
+}
+
+h1 {
+	font-family: 'Pacifico', cursive;
+}
+
+h2 {
+	color: #222831;
+}
+
+a {
+	text-decoration: none;
+}
+
